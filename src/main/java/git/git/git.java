@@ -18,6 +18,7 @@ public class git {
        
         
         System.out.println("hola mundo");
+        System.out.println("adios");
     }
     
 }
