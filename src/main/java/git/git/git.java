@@ -18,7 +18,12 @@ public class git {
        
         
         System.out.println("hola mundo");
-        System.out.println("adios");
+       
+        int n = 0;
+        if (n %2 == 0){
+                
+                System.out.println("el numero es par");
+        }
     }
     
 }
